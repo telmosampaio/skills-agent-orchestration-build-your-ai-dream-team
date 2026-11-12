@@ -1,0 +1,46 @@
+{
+  "projects": [
+    {
+      "name": "Model Evaluation Hub",
+      "owner": "Priya Nair",
+      "status": "In Progress",
+      "recentActivity": "Completed the benchmark ingestion workflow and began reviewer calibration.",
+      "priority": "High"
+    },
+    {
+      "name": "Responsible AI Playbook",
+      "owner": "Mateo Silva",
+      "status": "Active",
+      "recentActivity": "Published the first draft of the incident-response guidance for contributor review.",
+      "priority": "Medium"
+    },
+    {
+      "name": "Retrieval Quality Monitor",
+      "owner": "Avery Chen",
+      "status": "At Risk",
+      "recentActivity": "Latency increased in the latest corpus refresh; the team is tracing the indexing regression.",
+      "priority": "Critical"
+    },
+    {
+      "name": "Community Dataset Registry",
+      "owner": "Jordan Okafor",
+      "status": "On Hold",
+      "recentActivity": "Paused new submissions while legal reviews the updated contributor agreement.",
+      "priority": "Low"
+    },
+    {
+      "name": "Multilingual Prompt Library",
+      "owner": "Linh Tran",
+      "status": "Complete",
+      "recentActivity": "Released the initial language packs and documented the maintenance handoff.",
+      "priority": "Low"
+    },
+    {
+      "name": "Long-context Safety Review",
+      "owner": "Samira Patel",
+      "status": "Needs Review",
+      "recentActivity": "Shared a proposed test set with unusually long multilingual examples for final approval.",
+      "priority": "Elevated"
+    }
+  ]
+}
